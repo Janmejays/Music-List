@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Star Wars Blast Tournament</string>
+    <string name="need_help">Need Help?</string>
+    <string name="s_n_r">sever not responding</string>
+    <string name="p_l_a">Please login again</string>
+    <string name="check_internet">No Internet Connection</string>
+    <string name="check_internet_con">Please check your internet connection</string>
+    <string name="something">Something went wrong.</string>
+    <string name="invalid_code">Invalid code</string>
+    <string name="message">message</string>
+    <string name="welcome">Welcome</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="star_wars_blast_tournament">Star Wars Blast Tournament</string>
+    <string name="points_table">Points Table</string>
+    <string name="varder">Varder</string>
+    <string name="matches">Matches</string>
+    <string name="pause_audio">Pause Audio</string>
+    <string name="play_audio_file">Play Audio file</string>
+    <string name="song">Song</string>
+
+
+</resources>
